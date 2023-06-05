@@ -1,0 +1,64 @@
+{
+  "allEmployees": [
+    {
+      "Employee Name": "David Smith",
+      "EmployeeID": 1,
+      "Salary": 65000,
+      "Department": "Human Resources"
+    },
+    {
+      "Employee Name": "$Olivia Johnson",
+      "EmployeeID": 2,
+      "Salary": 65000,
+      "Department": "Human Resources"
+    },
+    {
+      "Employee Name": "Christopher Scott",
+      "EmployeeID": 3,
+      "Salary": 70000,
+      "Department": "Human Resources"
+    },
+    {
+      "Employee Name": "Benjamin Lewis",
+      "EmployeeID": 4,
+      "Salary": 75000,
+      "Department": "Information Technology"
+    },
+    {
+      "Employee Name": "Robert Kardashian",
+      "EmployeeID": 5,
+      "Salary": 40000,
+      "Department": "Business"
+    },
+    {
+      "Employee Name": "Makeeda Robinson",
+      "EmployeeID": 6,
+      "Salary": 45000,
+      "Department": "Health"
+    },
+    {
+      "Employee Name": "Marco Rodriguez",
+      "EmployeeID": 7,
+      "Salary": 65000,
+      "Department": "Health"
+    },
+    {
+      "Employee Name": "Micheal Duncan",
+      "EmployeeID": 8,
+      "Salary": 70000,
+      "Department": "Health"
+    },
+    {
+      "Employee Name": "Ayanna Clark",
+      "EmployeeID": 9,
+      "Salary": 85000,
+      "Department": "Engineer"
+    },
+    {
+      "Employee Name": "Sophia Miller",
+      "EmployeeID": 10,
+      "Salary": 92000,
+      "Department": "Engineer"
+    }
+  ]
+}
